@@ -1,0 +1,75 @@
+D:\NIBM\DSE\A Lessons\New folder\codes\hello world\Frame Work\Library Management System\Library Management System\bin\Debug\Library Management System.exe.config
+D:\NIBM\DSE\A Lessons\New folder\codes\hello world\Frame Work\Library Management System\Library Management System\bin\Debug\Library Management System.exe
+D:\NIBM\DSE\A Lessons\New folder\codes\hello world\Frame Work\Library Management System\Library Management System\bin\Debug\Library Management System.pdb
+D:\NIBM\DSE\A Lessons\New folder\codes\hello world\Frame Work\Library Management System\Library Management System\bin\Debug\aa\Library Management System.resources.dll
+D:\NIBM\DSE\A Lessons\New folder\codes\hello world\Frame Work\Library Management System\Library Management System\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\NIBM\DSE\A Lessons\New folder\codes\hello world\Frame Work\Library Management System\Library Management System\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\NIBM\DSE\A Lessons\New folder\codes\hello world\Frame Work\Library Management System\Library Management System\bin\Debug\CrystalDecisions.Shared.dll
+D:\NIBM\DSE\A Lessons\New folder\codes\hello world\Frame Work\Library Management System\Library Management System\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\NIBM\DSE\A Lessons\New folder\codes\hello world\Frame Work\Library Management System\Library Management System\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\NIBM\DSE\A Lessons\New folder\codes\hello world\Frame Work\Library Management System\Library Management System\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\NIBM\DSE\A Lessons\New folder\codes\hello world\Frame Work\Library Management System\Library Management System\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\NIBM\DSE\A Lessons\New folder\codes\hello world\Frame Work\Library Management System\Library Management System\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\NIBM\DSE\A Lessons\New folder\codes\hello world\Frame Work\Library Management System\Library Management System\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\NIBM\DSE\A Lessons\New folder\codes\hello world\Frame Work\Library Management System\Library Management System\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\NIBM\DSE\A Lessons\New folder\codes\hello world\Frame Work\Library Management System\Library Management System\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\NIBM\DSE\A Lessons\New folder\codes\hello world\Frame Work\Library Management System\Library Management System\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\NIBM\DSE\A Lessons\New folder\codes\hello world\Frame Work\Library Management System\Library Management System\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\NIBM\DSE\A Lessons\New folder\codes\hello world\Frame Work\Library Management System\Library Management System\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\NIBM\DSE\A Lessons\New folder\codes\hello world\Frame Work\Library Management System\Library Management System\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\NIBM\DSE\A Lessons\New folder\codes\hello world\Frame Work\Library Management System\Library Management System\bin\Debug\stdole.dll
+D:\NIBM\DSE\A Lessons\New folder\codes\hello world\Frame Work\Library Management System\Library Management System\obj\Debug\Library Management System.csproj.AssemblyReference.cache
+D:\NIBM\DSE\A Lessons\New folder\codes\hello world\Frame Work\Library Management System\Library Management System\obj\Debug\Library_Management_System.Book_Registration.resources
+D:\NIBM\DSE\A Lessons\New folder\codes\hello world\Frame Work\Library Management System\Library Management System\obj\Debug\Library_Management_System.Book_Issue.resources
+D:\NIBM\DSE\A Lessons\New folder\codes\hello world\Frame Work\Library Management System\Library Management System\obj\Debug\Library_Management_System.Form1.resources
+D:\NIBM\DSE\A Lessons\New folder\codes\hello world\Frame Work\Library Management System\Library Management System\obj\Debug\Library_Management_System.Member.resources
+D:\NIBM\DSE\A Lessons\New folder\codes\hello world\Frame Work\Library Management System\Library Management System\obj\Debug\Library_Management_System.Properties.Resources.resources
+D:\NIBM\DSE\A Lessons\New folder\codes\hello world\Frame Work\Library Management System\Library Management System\obj\Debug\Library_Management_System.ReturnBooks.resources
+D:\NIBM\DSE\A Lessons\New folder\codes\hello world\Frame Work\Library Management System\Library Management System\obj\Debug\Library_Management_System.Book_Registration.aa.resources
+D:\NIBM\DSE\A Lessons\New folder\codes\hello world\Frame Work\Library Management System\Library Management System\obj\Debug\Library Management System.csproj.GenerateResource.cache
+D:\NIBM\DSE\A Lessons\New folder\codes\hello world\Frame Work\Library Management System\Library Management System\obj\Debug\Library Management System.csproj.CoreCompileInputs.cache
+D:\NIBM\DSE\A Lessons\New folder\codes\hello world\Frame Work\Library Management System\Library Management System\obj\Debug\aa\Library Management System.resources.dll
+D:\NIBM\DSE\A Lessons\New folder\codes\hello world\Frame Work\Library Management System\Library Management System\obj\Debug\Library .F7D87690.Up2Date
+D:\NIBM\DSE\A Lessons\New folder\codes\hello world\Frame Work\Library Management System\Library Management System\obj\Debug\Library Management System.exe
+D:\NIBM\DSE\A Lessons\New folder\codes\hello world\Frame Work\Library Management System\Library Management System\obj\Debug\Library Management System.pdb
+D:\Working\Library Management System\Library Management System\bin\Debug\Library Management System.exe.config
+D:\Working\Library Management System\Library Management System\bin\Debug\Library Management System.exe
+D:\Working\Library Management System\Library Management System\bin\Debug\Library Management System.pdb
+D:\Working\Library Management System\Library Management System\bin\Debug\aa\Library Management System.resources.dll
+D:\Working\Library Management System\Library Management System\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\Working\Library Management System\Library Management System\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\Working\Library Management System\Library Management System\bin\Debug\CrystalDecisions.Shared.dll
+D:\Working\Library Management System\Library Management System\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\Working\Library Management System\Library Management System\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\Working\Library Management System\Library Management System\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\Working\Library Management System\Library Management System\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\Working\Library Management System\Library Management System\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\Working\Library Management System\Library Management System\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\Working\Library Management System\Library Management System\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\Working\Library Management System\Library Management System\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\Working\Library Management System\Library Management System\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\Working\Library Management System\Library Management System\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\Working\Library Management System\Library Management System\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\Working\Library Management System\Library Management System\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\Working\Library Management System\Library Management System\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\Working\Library Management System\Library Management System\bin\Debug\stdole.dll
+D:\Working\Library Management System\Library Management System\obj\Debug\Library Management System.csproj.AssemblyReference.cache
+D:\Working\Library Management System\Library Management System\obj\Debug\Library_Management_System.Book_Registration.resources
+D:\Working\Library Management System\Library Management System\obj\Debug\Library_Management_System.Book_Issue.resources
+D:\Working\Library Management System\Library Management System\obj\Debug\Library_Management_System.Form1.resources
+D:\Working\Library Management System\Library Management System\obj\Debug\Library_Management_System.reportgenarate.resources
+D:\Working\Library Management System\Library Management System\obj\Debug\Library_Management_System.Login_Form.resources
+D:\Working\Library Management System\Library Management System\obj\Debug\Library_Management_System.Member.resources
+D:\Working\Library Management System\Library Management System\obj\Debug\Library_Management_System.Properties.Resources.resources
+D:\Working\Library Management System\Library Management System\obj\Debug\Library_Management_System.ReturnBooks.resources
+D:\Working\Library Management System\Library Management System\obj\Debug\Library_Management_System.Book_Registration.aa.resources
+D:\Working\Library Management System\Library Management System\obj\Debug\Library Management System.csproj.GenerateResource.cache
+D:\Working\Library Management System\Library Management System\obj\Debug\Library Management System.csproj.CoreCompileInputs.cache
+D:\Working\Library Management System\Library Management System\obj\Debug\aa\Library Management System.resources.dll
+D:\Working\Library Management System\Library Management System\obj\Debug\Library .F7D87690.Up2Date
+D:\Working\Library Management System\Library Management System\obj\Debug\Library Management System.exe
+D:\Working\Library Management System\Library Management System\obj\Debug\Library Management System.pdb
+D:\Working\Library Management System\Library Management System\bin\Debug\Library Management System.exe.manifest
+D:\Working\Library Management System\Library Management System\bin\Debug\Library Management System.application
+D:\Working\Library Management System\Library Management System\obj\Debug\Library Management System.exe.manifest
+D:\Working\Library Management System\Library Management System\obj\Debug\Library Management System.application
